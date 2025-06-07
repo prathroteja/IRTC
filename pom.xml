@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository hi-->
 	</parent>
 	<groupId>in.jam</groupId>
-	<artifactId>IRCTC-Rest-Api</artifactId>
+	<artifactId>IRCTC-Rest-Api1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>IRCTC-Rest-Api</name>
 	<description>Demo project for Spring Boot</description>
